@@ -8,7 +8,7 @@
         <td>
             <div>
                 
-[![DALL-E mini - Generating Text to Images using AI model in Google Colab](https://img.youtube.com/vi/emnpYD6-90c/0.jpg)](https://www.youtube.com/watch?v=emnpYD6-90c)
+
 
   </tr>
 </table>
