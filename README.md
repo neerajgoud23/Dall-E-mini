@@ -1,17 +1,5 @@
 # DALL-E mini/mega - Open Source Text to Image AI model # 
 
-<table class="table table-striped table-bordered table-vcenter">
-    <tr>
-        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; DALL-E mini - Generating Text to Images using AI model in Google Colab</b></td>
-    </tr>
-    <tr>
-        <td>
-            <div>
-                
-
-
-  </tr>
-</table>
 
 ### Introduction ###
 DALL-E (mini|mega) models can be used to generate images based on text prompts. 
